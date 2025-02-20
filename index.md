@@ -28,7 +28,6 @@ I am a Ph.D. candidate specializing in Computer Application Technology at the [U
 ## News and Updates
 
 - **[02/2025]** ongoing...
-
 - **[before 2025]** See my resume.
 ---
 ## Education
