@@ -53,7 +53,7 @@ I am a Ph.D. candidate specializing in Computer Application Technology at the [U
   Attended School of Computer Science and Technology at UCAS Yanqi Lake Campus
 
 - **[09/2021]**  
-  Admitted to UCAS Computer Application program via recommendation (GPA 92.27)
+  Admitted to UCAS Computer Application program via recommendation (average score of 92.27 and the top grade in my undergraduate thesis)
 
 
 <!-- 
