@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://laulen.github.io/qianqianzhang.jpg" class="floatpic">
+<img src="https://laulen.github.io/qianqianzhang2.jpg" class="floatpic">
 
 Here is **Qianqian Zhang (Laulen, 张倩倩)**.<br>
 
