@@ -25,12 +25,16 @@ I am a Ph.D. candidate specializing in Computer Application Technology at the [U
 
 
 ---
+
 ## News and Updates
 
 - **[02/2025]** Ongoing ...
 - **[before]** Full history available in [CV](https://laulen.github.io/file/CV-qianqianzhang.pdf)
+
 ---
+
 ## Education
+
 - **[02/2025]**  
   Received invitation letter from supervisor at [Queen Mary University of London](https://www.qmul.ac.uk/) with scholarship offer. Supervisors: [Ahmed M. A. Sayed](http://www.eecs.qmul.ac.uk/~ahmed/) and [Qilei Li](https://li.qilei.me/).  
   - Will begin remote collaboration from China in advance
