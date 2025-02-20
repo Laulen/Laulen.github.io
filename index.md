@@ -4,11 +4,11 @@ layout: page
 
 # About Me
 
-<img src="https://laulen.github.io/qianqianzhang2.jpg" class="floatpic">
+<!-- <img src="https://laulen.github.io/qianqianzhang2.jpg" class="floatpic"> -->
 
 Here is **Qianqian Zhang (Laulen, 张倩倩)**.<br>
 
-I am a Ph.D. candidate specializing in Computer Application Technology at the University of Chinese Academy of Sciences [UCAS](https://www.ucas.edu.cn/).
+I am a Ph.D. candidate specializing in Computer Application Technology at the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.edu.cn/).
 
 **09/2021**: I was recommended for admission to the Computer Application program at the University of Chinese Academy of Sciences **without examination**, as an academic master's student, with a comprehensive average score of 92.27 and the top grade in my undergraduate thesis within my major.
 
