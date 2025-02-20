@@ -27,8 +27,8 @@ I am a Ph.D. candidate specializing in Computer Application Technology at the [U
 ---
 ## News and Updates
 
-- **[02/2025]** ongoing...
-- **[before 2025]** See my resume.
+- **[02/2025]** Ongoing ...
+- **[before]** Full history available in [CV](https://laulen.github.io/file/CV-qianqianzhang.pdf)
 ---
 ## Education
 - **[02/2025]**  
