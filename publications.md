@@ -67,11 +67,9 @@ title: Publications
 <ul class="publications-list">
   <li>
     <strong>[CVPR'25]</strong> "Selective Structured State Space for Multispectral-fused Small Target Detection"<br>
-    (Preprint in preparation, title subject to change)
   </li>
   
   <li>
     <strong>[Remote Sensing'24]</strong> Extended version of ACCV'24 paper (30% new content)<br>
-    <em>Journal submission pending</em>
   </li>
 </ul>
