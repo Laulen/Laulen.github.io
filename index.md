@@ -26,7 +26,10 @@ I am a Ph.D. candidate specializing in Computer Application Technology at the [U
 
 ---
 ## News and Updates
+- **[02/2025]** 
 
+---
+## Education
 - **[02/2025]**  
   Received invitation letter from supervisor at [Queen Mary University of London](https://www.qmul.ac.uk/) with scholarship offer. Supervisors: [Ahmed M. A. Sayed](http://www.eecs.qmul.ac.uk/~ahmed/) and [Qilei Li](https://li.qilei.me/).  
   - Will begin remote collaboration from China in advance
@@ -47,7 +50,7 @@ I am a Ph.D. candidate specializing in Computer Application Technology at the [U
   Successfully passed qualification review for master's to PhD transition
 
 - **[2022-2023]**  
-  Pursued studies at [NSSC](http://www.nssc.ac.cn/) under master's supervisor [Li Zhou](https://people.ucas.ac.cn/~0020524)
+  Pursued studies at [NSSC](http://www.nssc.ac.cn/) under master's supervisor [Li Zhou](https://people.ucas.ac.cn/~0020524) (GPA: 3.7/4.0)
 
 - **[09/2021-07/2022]**  
   Attended School of Computer Science and Technology at UCAS Yanqi Lake Campus
