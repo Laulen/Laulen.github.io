@@ -4,43 +4,74 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> (†: equal contribution, ~: corresponding author)
+## Full List of Publications
 
-## Working Paper
+### Published Papers
+<ul class="publications-list">
+  <li>
+    <strong>[ACCV'24]</strong> "ESM-YOLO: Enhanced Small Target Detection Based on Visible and Infrared Multi-modal Fusion"<br>
+    <strong>Qianqian Zhang</strong>, Linwei Qiu, Li Zhou, Junshe An<br>
+    <em>Proceedings of the Asian Conference on Computer Vision (ACCV), 2024, 1454-1469</em>
+  </li>
+  
+  <li>
+    <strong>[Sensors'24]</strong> "Real-Time Recognition Algorithm of Small Target for UAV Infrared Detection"<br>
+    <strong>Qianqian Zhang</strong>, Li Zhou, Junshe An<br>
+    <em>Sensors 24(10), 3075</em> · <a href="https://doi.org/10.3390/s24103075">https://doi.org/10.3390/s24103075</a>
+  </li>
+</ul>
 
-<!-- - [Semantic Learning for Molecular Communication in Internet of Bio-Nano Things](https://arxiv.org/abs/2502.08426)<br>**Hanlin Cai**, Ozgur B. Akan<br>[arXiv](https://arxiv.org/abs/2502.08426). February, 2025.<br> -->
+### Published Chinese Patents (First Inventor)
+<ul class="publications-list">
+  <li>
+    CN118470557A · 2024.08.09<br>
+    <strong>A small target detection method and system based on visible light and infrared multi-mode fusion</strong><br>
+    Inventors: <strong>Qianqian Zhang</strong>, Li Zhou, Junshe An
+  </li>
+  
+  <li>
+    CN118314477A · 2024.07.09<br>
+    <strong>Small target real-time recognition method and system for UAV infrared detection</strong><br>
+    Inventors: <strong>Qianqian Zhang</strong>, Li Zhou, Junshe An
+  </li>
+  
+  <li>
+    CN116527896A · 2023.08.01<br>
+    <strong>Space-borne heterogeneous H.264 video compression and decoding system and decoding method</strong><br>
+    Inventors: <strong>Qianqian Zhang</strong>, Li Zhou, Junshe An
+  </li>
+  
+  <li>
+    CN116527895A · 2023.08.01<br>
+    <strong>Space-borne heterogeneous H.264 video compression coding system and coding method</strong><br>
+    Inventors: <strong>Qianqian Zhang</strong>, Li Zhou, Junshe An
+  </li>
+</ul>
 
----
+### Filed, Unpublished Patents (First Inventor)
+<ul class="publications-list">
+  <li>
+    2024117851620 · Filed: December 06, 2024<br>
+    <strong>Pixel-level multi-spectral fusion small target detection method and system based on mask enhancement</strong><br>
+    Inventors: <strong>Qianqian Zhang</strong>, Li Zhou, Junshe An
+  </li>
+  
+  <li>
+    2024117698796 · Filed: December 04, 2024<br>
+    <strong>Improved infrared small target detection method and system based on visual state space model</strong><br>
+    Inventors: <strong>Qianqian Zhang</strong>, Li Zhou, Junshe An
+  </li>
+</ul>
 
-## Conference Paper
-
-<!-- - [Securing Billion Bluetooth Low Energy Devices Using Cyber-Physical Analysis and Deep Learning Techniques](https://www.researchgate.net/publication/384046364/)<br>**Hanlin Cai**†, Yuchen Fang†, Jiacheng Huang, Honglin Liao, Meng Yuan, Zhezhuang Xu**~**<br>The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024), Undergraduate Consortium.<br>Barcelona, Spain. August, 2024.<br>
-
-- [Poster: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://dl.acm.org/doi/abs/10.1145/3643832.3661434)<br>**Hanlin Cai**, Yuchen Fang, Jiacheng Huang, Meng Yuan, Zhezhuang Xu**~**<br>The 22nd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2024), Poster Session.<br>Tokyo, Japan. June, 2024.
-
-- SeeMusic: XR-Enhanced Musical Language Training Application for Hearing-impaired Children<br>Linshi Li, Xianjinghua Chen, Yutian Qin and **Hanlin Cai~**<br>The 14th IEEE International Conference on Educational and Information Technology (ICEIT 2025).<br>Guangzhou, China. March, 2025.
-
-
-<br> -->
-
----
-
-## Degree Thesis
-
-<!-- - [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). **Best Bachelor Thesis Award** (Top 1/300).<br>Proposal paper has been accepted by AAAI 2024<br>Expect to submit a long paper to KDD 2024.
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement at China Huading Tech and IIoT Lab<br>
-
-  <br> -->
-
----
-
-## Early Project
-
-<!-- - [Proposal: Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<br>*Final year project (FYP).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), Undergraduate Consortium.<br>Vancouver, Canada. February, 2024.
-
-- Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model<br>*Junior-year course design.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics.<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
-
-- An IoT Garbage Monitoring System for Effective Garbage Management<br>*First-year course design.*<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
-
-  <br> -->
+### Papers Under Review
+<ul class="publications-list">
+  <li>
+    <strong>[CVPR'25]</strong> "Selective Structured State Space for Multispectral-fused Small Target Detection"<br>
+    (Preprint in preparation, title subject to change)
+  </li>
+  
+  <li>
+    <strong>[Remote Sensing'24]</strong> Extended version of ACCV'24 paper (30% new content)<br>
+    <em>Journal submission pending</em>
+  </li>
+</ul>
