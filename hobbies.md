@@ -24,7 +24,7 @@ I have a meteorite.
 
 ## Doctor Who
 
-I'm a big fan of the BBC's Doctor Who science fiction.I like the show with Rose and Amy best.I admire the two women's smart and brave. I aspire to have a Doctor's Sonic Screwdriver And Time And Relative Dimension(s) In Space (TARDIS).
+I'm a big fan of the BBC's Doctor Who science fiction.I like the show with Rose and Amy best.I admire the two women's smart and brave. I aspire to have a Doctor's Sonic Screwdriver & Time And Relative Dimension(s) In Space (TARDIS).
 
 <img src="/images/DoctorWho.jpg" alt="Doctor Who" width="60%" style="height: auto; display: block; margin: 0 auto;"/>
 
