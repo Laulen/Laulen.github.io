@@ -42,14 +42,14 @@ I am a Ph.D. candidate specializing in Computer Application Technology at the [U
 
 - **[06/2024-02/2025]**  
   Conducted research at Tsinghua University's Institute for Artificial Intelligence Research (AIR)  
-  Mentors: 
+  Supervisors: 
   - [Yunxin Liu](https://yunxinliu.github.io/)
   - [Weijun Wang](https://weijunalexwang.github.io/) 
   - [Hao Zhao](https://sites.google.com/view/fromandto)
   - [Yuanchun Li](https://yuanchun-li.github.io/)
 
 - **[02/2024]**  
-  Continued PhD studies under advisor [Junshe An](https://people.ucas.ac.cn/~0000637)
+  Continued PhD studies under supervisor [Junshe An](https://people.ucas.ac.cn/~0000637)
 
 - **[05/2023]**  
   Successfully passed qualification review for master's to PhD transition
