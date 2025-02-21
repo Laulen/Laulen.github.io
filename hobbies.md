@@ -10,7 +10,7 @@ I'm a Ham Radio Operator. My global unique call sign: BI1SRJ.
 
 Below is my certificate of communication to the [International Space Station (ISS)](https://www.ariss.org/)
 
-<img src="/images/ReceivingISSsignalcertificate.jpg" alt="ISS Communication Certificate" width="80%" style="height: auto; display: block; margin: 0 auto;"/>
+<img src="/images/ReceivingISSsignalcertificate.jpg" alt="ISS Communication Certificate" width="60%" style="height: auto; display: block; margin: 0 auto;"/>
 
 ---
 
@@ -18,10 +18,8 @@ Below is my certificate of communication to the [International Space Station (IS
 
 I have a meteorite.
 
-<div style="display: flex; justify-content: center; gap: 20px; margin: 20px auto;">
-  <img src="/images/meteorite.jpg" alt="meteorite" width="45%" style="height: auto;"/>
-  <img src="/images/meteorite2.jpg" alt="meteorite2" width="45%" style="height: auto;"/>
-</div>
+  <img src="/images/meteorite2.jpg" alt="meteorite2" width="60%" style="height: auto;"/>
+
 
 ---
 
