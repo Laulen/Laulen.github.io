@@ -32,7 +32,7 @@ I'm a big fan of the BBC's Doctor Who science fiction.I like the show with Rose 
 
 ## Reading
 
-My favorite book is **Essentialism** by Greg McKeown. This book was like an oxygen tank to me when I felt suffocated. It guided me out of the psychological struggles I experienced during my PhD.
+My favorite book is **Essentialism** by Greg McKeown. This book was like an oxygen tank to me when I felt suffocated. It guided me out of the psychological struggles I experienced during my PhD. 1.让自己的情绪平静下来。2.确定什么是当前最重要的事情，不是明天不是以后，而是此时此刻。3.用正确的顺序去做。4.绝大多数事情都是噪音，屏蔽掉不重要的事情，只做重要的事情。5.如果你不给自己的人生排列优先顺序，别人会来代劳。如果你决意要给自己的人生安排主次先后，你是可以做到的。决定权在于你。它是你的内在力量。
 
 Additionally, I really enjoy the following books. They were my salvation.
 
