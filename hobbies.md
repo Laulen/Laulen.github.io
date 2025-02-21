@@ -18,8 +18,7 @@ Below is my certificate of communication to the [International Space Station (IS
 
 I have a meteorite.
 
-  <img src="/images/meteorite2.jpg" alt="meteorite2" width="60%" style="height: auto;"/>
-
+<img src="/images/meteorite2.jpg" alt="meteorite2" width="60%" style="height: auto; display: block; margin: 0 auto;"/>
 
 ---
 
