@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://laulen.github.io/qianqianzhang2.jpg" class="floatpic">
 
-Here is **Qianqian Zhang (Laulen, 张倩倩)**.<br>
+Here is **Qianqian Zhang (张倩倩)**.<br>
 
 I am a Ph.D. candidate specializing in Computer Application Technology at the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.edu.cn/).
 
