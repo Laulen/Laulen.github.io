@@ -41,7 +41,7 @@ I am a Ph.D. candidate specializing in Computer Application Technology at the [U
   - Plan to visit UK in 09/2025 for 6-month joint training program
 
 - **[06/2024-02/2025]**  
-  Conducted research at Tsinghua University's Institute for Artificial Intelligence Research (AIR)  
+  Conducted research at [Tsinghua University's Institute for Artificial Intelligence Research (AIR)](https://air.tsinghua.edu.cn/)  
   Supervisors: 
   - [Yunxin Liu](https://yunxinliu.github.io/)
   - [Weijun Wang](https://weijunalexwang.github.io/) 
