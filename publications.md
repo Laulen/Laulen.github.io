@@ -66,7 +66,7 @@ title: Publications
 ### Papers Under Review
 <ul class="publications-list">
   <li>
-    <strong>[CVPR'25]</strong> "Selective Structured State Space for Multispectral-fused Small Target Detection"<br>
+    <strong>[ICCV'25]</strong> CVPR'25 2.0 <br>
   </li>
   
   <li>
