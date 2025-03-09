@@ -43,8 +43,8 @@ Additionally, I really enjoy the following books. They were my salvation.
 - Robert Toru Kiyosaki's **Rich Dad Poor Dad**，这本书让我意识到财富的本质是现金流，多点资产，少买负债。
 - 温伯陵的 **《一读就上瘾的中国史》**、**《一读就上瘾的中国史2》**、**《唐诗里的烟火人间》**，这3本书让我意识到，历史不仅仅是历史，它就在我们身边，就在我们生活的每一个角落，我们是在重复历史，历史中的人物也是有温度的。
 - 吴杰臻的 **《好的婚姻，要守护财产和爱》**，这本书让我意识到，真正的爱是理智的，是建立在财产安全基础上的。
-- 老杨的猫头鹰的 **《姑娘，脱贫比脱单更重要》**，这本书让我重新思考相比于拥有高质量的生活，爱情的重要性似乎微不足道。
-<img src="/images/freedom.jpg" alt="freedom" width="40%" style="height: auto; display: block; margin: 0 auto;"/>
+- 老杨的猫头鹰的 **《姑娘，脱贫比脱单更重要》**，这本书让我重新思考相比于拥有高质量的生活，爱情的重要性似乎微不足道。"She wasn't waiting for the knight, but looking for a sharp sword."
+<!-- <img src="/images/freedom.jpg" alt="freedom" width="40%" style="height: auto; display: block; margin: 0 auto;"/> -->
 - 隔花人的 **《星期六晚我们去散步吧》**，这本书让我重新思考被忽略的日常生活。
 - 路遥的 **《人生》**，这本书让我意识到，人生的选择很重要，但重要的就那么几个。
 - 刘慈欣的 **《三体》**，这个系列我最喜欢的是第三部，我沉浸在这本书的故事情节里。
