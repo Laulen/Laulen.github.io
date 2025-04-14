@@ -36,6 +36,7 @@ My favorite book is **Essentialism** by Greg McKeown. This book was like an oxyg
 
 Additionally, I really enjoy the following books. They were my salvation.
 
+- Dale Carnegie's **How To Win Friends and Influence Others & How To Stop Worrying and Start Living**, 真正获取平安快乐的方法，并不是什么都不做，或者只做100%“安全”的事情。而是：当你人生的琴弦断了一根的时候，你还能以剩下的三条继续演奏。别人有一车水果，而你只有一个酸柠檬，你不应该一直看着别人的水果，而烂掉自己宝物，你应该想办法让酸柠檬变为甜柠檬。"沙漠并没有发生改变，改变的只是我自己"、“人有一种反败为胜的力量”。
 - Kendra Adachi's **The Lazy Genius Way**，这本书让我懂得有些事情上要做个天才，但有些事情上可以做个懒人。只认真做重要的事情。
 - Scott Rieckens's **FIRE: The Path to Financial Freedom**，这本书让我意识到要尽早开始储蓄，降低自己的欲望，只买自己真正需要的东西，并运用公式计算自己的财务状况。
 - Greg McKeown's **Effortless**，这本书让我意识到我可以通过轻松的状态、轻松的方式获得轻松的成果。在把事情做好的同时保持身心健康。
