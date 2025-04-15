@@ -46,22 +46,22 @@ title: Publications
     <strong>Space-borne heterogeneous H.264 video compression coding system and coding method</strong><br>
     Inventors: <strong>Qianqian Zhang</strong>, Li Zhou, Junshe An
   </li>
-</ul>
 
-### Filed, Unpublished Patents (First Inventor)
-<ul class="publications-list">
   <li>
-    2024117851620 · Filed: December 06, 2024<br>
+    CN119810681A · 2025.04.11 <br>
     <strong>Pixel-level multi-spectral fusion small target detection method and system based on mask enhancement</strong><br>
     Inventors: <strong>Qianqian Zhang</strong>, Li Zhou, Junshe An
   </li>
-  
+
   <li>
-    2024117698796 · Filed: December 04, 2024<br>
+    CN119810601A · 2025.04.11<br>
     <strong>Improved infrared small target detection method and system based on visual state space model</strong><br>
     Inventors: <strong>Qianqian Zhang</strong>, Li Zhou, Junshe An
   </li>
+
 </ul>
+
+
 
 ### Papers Under Review
 <ul class="publications-list">
