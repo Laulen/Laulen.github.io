@@ -28,7 +28,7 @@ I am a Ph.D. candidate specializing in Computer Application Technology at the [U
 
 ## News and Updates
 - **[06/2025]** Ongoing ...
-- **[05/2025]** Received CSC funding (https://laulen.github.io/file/csc.jpg)
+- **[05/2025]** Received [CSC funding](https://laulen.github.io/file/csc.pdf)
 - **[before]** Full history available in [CV](https://laulen.github.io/file/CV-qianqianzhang.pdf)
 
 ---
