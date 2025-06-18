@@ -27,7 +27,8 @@ I am a Ph.D. candidate specializing in Computer Application Technology at the [U
 ---
 
 ## News and Updates
-- **[06/2025]** Ongoing ...
+- **[07/2025]** Ongoing ...
+- **[06/2025]** Internship at the International Meridian Circle Program (IMCP) Office 12/3/2025-15/6/2025. [Outstanding Intern](https://laulen.github.io/file/imcp.pdf)
 - **[05/2025]** Received [CSC funding](https://laulen.github.io/file/csc.pdf)
 - **[before]** Full history available in [CV](https://laulen.github.io/file/CV-qianqianzhang.pdf)
 
