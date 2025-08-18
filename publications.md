@@ -25,7 +25,7 @@ title: Publications
 <ul class="publications-list">
   <li>
     CN118470557A · 2024.08.09<br>
-    <strong>A small target detection method and system based on visible light and infrared multi-mode fusion</strong><br>
+    <strong>A small target detection method and system based on visible light and infrared multi-mode fusion</strong><br> [CN 118470557 A](https://laulen.github.io/file/118470557.pdf)
     Inventors: <strong>Qianqian Zhang</strong>, Li Zhou, Junshe An
   </li>
   
@@ -62,14 +62,3 @@ title: Publications
 </ul>
 
 
-
-### Papers Under Review
-<ul class="publications-list">
-  <li>
-    <strong>[ICCV'25]</strong> CVPR'25 2.0 <br>
-  </li>
-  
-  <li>
-    <strong>[Remote Sensing'24]</strong> Extended version of ACCV'24 paper (30% new content)<br>
-  </li>
-</ul>
