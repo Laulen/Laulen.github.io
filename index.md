@@ -65,6 +65,13 @@ I am a Ph.D. candidate specializing in Computer Application Technology at the [U
 - **[09/2021]**  
   Admitted to UCAS Computer Application program via recommendation (average score of 92.27 and the top grade in my undergraduate thesis)
 
+---
+
+## Leadership Honours
+- **[09/2025]** Ongoing ...
+- **[05/2025]** Outstanding Student Leader at the University of Chinese Academy of Sciences (during the doctoral period, 2024-2025).[PDF](https://laulen.github.io/file/youxiu.pdf)
+- **[06/2023]** Outstanding Student Leader at the University of Chinese Academy of Sciences (during the master's degree, 2022-2023).[PDF](https://laulen.github.io/file/youxiu1.pdf)
+
 
 <!-- 
 ## News and Updates
