@@ -28,7 +28,7 @@ I am a Ph.D. candidate specializing in Computer Application Technology at the [U
 ## News and Updates
 
 - **[02/2025]** Ongoing ...
-- **[before]** Full history available in [CV](https://laulen.github.io/file/CV-qianqianzhang.pdf) or [CV_Chinese](https://laulen.github.io/file/CV-CHINESE-20250905.pdf)
+- **[before]** Full history available in [CV_English](https://laulen.github.io/file/CV-qianqianzhang.pdf) or [CV_Chinese](https://laulen.github.io/file/CV-CHINESE-20250905.pdf)
 ---
 ## Education
 - **[02/2025]**  
