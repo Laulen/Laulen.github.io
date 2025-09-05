@@ -31,7 +31,7 @@ I am a Ph.D. candidate specializing in Computer Application Technology at the [U
 - **[07/2025]** Internship at Zhuhai Municipal People's Government, China 08/2025-07/2025.[Outstanding Intern](https://laulen.github.io/file/zhuhai.pdf)
 - **[06/2025]** Internship at the International Meridian Circle Program (IMCP) Office 12/03/2025-15/06/2025. [Outstanding Intern](https://laulen.github.io/file/imcp.pdf)
 - **[05/2025]** Received [CSC funding](https://laulen.github.io/file/csc.pdf)
-- **[before]** Full history available in [CV](https://laulen.github.io/file/CV-qianqianzhang.pdf)[CV_Chinese](https://laulen.github.io/file/CV-CHINESE-20250905.pdf)
+- **[before]** Full history available in [CV](https://laulen.github.io/file/CV-qianqianzhang.pdf) or [CV_Chinese](https://laulen.github.io/file/CV-CHINESE-20250905.pdf)
 
 ---
 
